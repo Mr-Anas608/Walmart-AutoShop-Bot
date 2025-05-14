@@ -1,0 +1,44 @@
+{
+    "iphone_13": {
+        "product_name": "iPhone 13",
+        "min_price": 200.0,
+        "max_price": 300.0,
+        "eligible_products": [
+            [
+                {
+                    "name": "Pre-Owned Apple iPhone 13 Mini - Carrier Unlocked - 128 GB Blue",
+                    "price": 234.9,
+                    "url": "https://www.walmart.com/ip/Fully-Unlocked-Apple-iPhone-13-Mini-Blue-128GB-Like-New-Condition/1616026935"
+                },
+                {
+                    "name": "Pre-Owned Apple iPhone 13 (6.1-inch) Smartphone (A2482) Unlocked - 128GB/Green",
+                    "price": 234.99,
+                    "url": "https://www.walmart.com/ip/Pre-Owned-Apple-iPhone-13-128GB-Alpine-Green-Unlocked-Refurbished-Fair/1227267879",
+                    "added_to_cart": true,
+                    "added_time": "2025-05-14 16:43:51"
+                }
+            ]
+        ]
+    },
+    "canon_eos_rebel_t100": {
+        "product_name": "Canon EOS Rebel T100",
+        "min_price": 350.0,
+        "max_price": 400.0,
+        "eligible_products": [
+            [
+                {
+                    "name": "Canon EOS Rebel T100 (EOS 4000D) DSLR Camera w/ 18-55mm DC III Zoom Lens + Deal- expo  Basic Bundle",
+                    "price": 389.0,
+                    "url": "https://www.walmart.com/ip/Canon-EOS-Rebel-T100-EOS-4000D-DSLR-Camera-w-18-55mm-DC-III-Zoom-Lens-Deal-expo-Basic-Bundle/699092615"
+                },
+                {
+                    "name": "Canon EOS Rebel T100/4000D DSLR Camera with 18MP Sensor and Pixi Starter Bundle",
+                    "price": 389.0,
+                    "url": "https://www.walmart.com/ip/Canon-EOS-Rebel-T100-4000D-DSLR-Camera-with-18MP-Sensor-and-Pixi-Starter-Bundle/352334213",
+                    "added_to_cart": true,
+                    "added_time": "2025-05-14 16:27:00"
+                }
+            ]
+        ]
+    }
+}

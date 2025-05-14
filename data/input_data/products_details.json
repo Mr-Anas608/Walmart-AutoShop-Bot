@@ -1,0 +1,457 @@
+[
+    {
+        "product_name": "iPhone 13",
+        "min_price": 200.0,
+        "max_price": 300.0
+    },
+    {
+        "product_name": "Canon EOS Rebel T100",
+        "min_price": 350.0,
+        "max_price": 400.0
+    },
+    {
+        "product_name": "Gas Push Lawn Mower",
+        "min_price": 250.0,
+        "max_price": 300.0
+    },
+    {
+        "product_name": "Ninja Foodi Air Fryer",
+        "min_price": 120.0,
+        "max_price": 170.0
+    },
+    {
+        "product_name": "KitchenAid Stand Mixer",
+        "min_price": 300.0,
+        "max_price": 450.0
+    },
+    {
+        "product_name": "Apple Watch Series 8",
+        "min_price": 270.0,
+        "max_price": 350.0
+    },
+    {
+        "product_name": "Bose QuietComfort 45",
+        "min_price": 220.0,
+        "max_price": 299.0
+    },
+    {
+        "product_name": "Samsung 32\" Smart TV",
+        "min_price": 180.0,
+        "max_price": 250.0
+    },
+    {
+        "product_name": "Dyson V8 Cordless Vacuum",
+        "min_price": 330.0,
+        "max_price": 400.0
+    },
+    {
+        "product_name": "Instant Pot 8 Quart",
+        "min_price": 100.0,
+        "max_price": 150.0
+    },
+    {
+        "product_name": "Power Rack for Home Gym",
+        "min_price": 300.0,
+        "max_price": 500.0
+    },
+    {
+        "product_name": "Bowflex Adjustable Dumbbells",
+        "min_price": 300.0,
+        "max_price": 399.0
+    },
+    {
+        "product_name": "42\" Ceiling Fan with Light",
+        "min_price": 80.0,
+        "max_price": 150.0
+    },
+    {
+        "product_name": "Ooni Pizza Oven",
+        "min_price": 300.0,
+        "max_price": 499.0
+    },
+    {
+        "product_name": "All-Clad Stainless Cookware Set",
+        "min_price": 400.0,
+        "max_price": 600.0
+    },
+    {
+        "product_name": "GoPro Hero 11",
+        "min_price": 350.0,
+        "max_price": 450.0
+    },
+    {
+        "product_name": "Roku Ultra Streaming Device",
+        "min_price": 70.0,
+        "max_price": 100.0
+    },
+    {
+        "product_name": "Electric Pressure Washer",
+        "min_price": 150.0,
+        "max_price": 250.0
+    },
+    {
+        "product_name": "Gaming Chair with Lumbar Support",
+        "min_price": 130.0,
+        "max_price": 200.0
+    },
+    {
+        "product_name": "Portable Power Station",
+        "min_price": 300.0,
+        "max_price": 500.0
+    },
+    {
+        "product_name": "JBL Flip 6 Bluetooth Speaker",
+        "min_price": 90.0,
+        "max_price": 130.0
+    },
+    {
+        "product_name": "Samsung Galaxy Tab S9",
+        "min_price": 400.0,
+        "max_price": 600.0
+    },
+    {
+        "product_name": "ASUS Chromebook 14\"",
+        "min_price": 180.0,
+        "max_price": 250.0
+    },
+    {
+        "product_name": "DeWalt Cordless Drill Kit",
+        "min_price": 150.0,
+        "max_price": 220.0
+    },
+    {
+        "product_name": "Electric Standing Desk",
+        "min_price": 250.0,
+        "max_price": 400.0
+    },
+    {
+        "product_name": "Brother Laser Printer",
+        "min_price": 120.0,
+        "max_price": 180.0
+    },
+    {
+        "product_name": "Fitbit Charge 6",
+        "min_price": 110.0,
+        "max_price": 160.0
+    },
+    {
+        "product_name": "Ring Doorbell Pro",
+        "min_price": 150.0,
+        "max_price": 250.0
+    },
+    {
+        "product_name": "Fireproof Safe Box",
+        "min_price": 80.0,
+        "max_price": 150.0
+    },
+    {
+        "product_name": "Massage Gun (Theragun)",
+        "min_price": 200.0,
+        "max_price": 300.0
+    },
+    {
+        "product_name": "Baby Jogger City Mini Stroller",
+        "min_price": 250.0,
+        "max_price": 350.0
+    },
+    {
+        "product_name": "Wine Cooler Fridge",
+        "min_price": 250.0,
+        "max_price": 450.0
+    },
+    {
+        "product_name": "LG Microwave 1.5 cu ft",
+        "min_price": 130.0,
+        "max_price": 200.0
+    },
+    {
+        "product_name": "Robot Vacuum Cleaner",
+        "min_price": 250.0,
+        "max_price": 500.0
+    },
+    {
+        "product_name": "Peloton Bike Seat Upgrade Kit",
+        "min_price": 80.0,
+        "max_price": 120.0
+    },
+    {
+        "product_name": "Adjustable Bed Base (Twin)",
+        "min_price": 400.0,
+        "max_price": 700.0
+    },
+    {
+        "product_name": "Blender - Vitamix E310",
+        "min_price": 300.0,
+        "max_price": 400.0
+    },
+    {
+        "product_name": "Outdoor Fire Pit Table",
+        "min_price": 200.0,
+        "max_price": 350.0
+    },
+    {
+        "product_name": "3D Printer (Creality Ender 3)",
+        "min_price": 200.0,
+        "max_price": 300.0
+    },
+    {
+        "product_name": "Digital Piano Keyboard 88-Key",
+        "min_price": 250.0,
+        "max_price": 400.0
+    },
+    {
+        "product_name": "Wireless Security Camera Kit",
+        "min_price": 250.0,
+        "max_price": 450.0
+    },
+    {
+        "product_name": "Air Purifier (HEPA)",
+        "min_price": 100.0,
+        "max_price": 200.0
+    },
+    {
+        "product_name": "Dual Monitor Arm Mount",
+        "min_price": 90.0,
+        "max_price": 140.0
+    },
+    {
+        "product_name": "Logitech MX Master 3 Mouse",
+        "min_price": 90.0,
+        "max_price": 130.0
+    },
+    {
+        "product_name": "Samsung 1TB SSD (Portable)",
+        "min_price": 100.0,
+        "max_price": 150.0
+    },
+    {
+        "product_name": "Portable Projector",
+        "min_price": 200.0,
+        "max_price": 400.0
+    },
+    {
+        "product_name": "Blackstone Griddle",
+        "min_price": 250.0,
+        "max_price": 400.0
+    },
+    {
+        "product_name": "Patio Furniture Set (4-Piece)",
+        "min_price": 350.0,
+        "max_price": 600.0
+    },
+    {
+        "product_name": "Car Jump Starter with Air Compressor",
+        "min_price": 90.0,
+        "max_price": 150.0
+    },
+    {
+        "product_name": "Wacom Drawing Tablet",
+        "min_price": 150.0,
+        "max_price": 300.0
+    },
+    {
+        "product_name": "Electric Scooter",
+        "min_price": 400.0,
+        "max_price": 600.0
+    },
+    {
+        "product_name": "Smart Thermostat (Nest)",
+        "min_price": 120.0,
+        "max_price": 200.0
+    },
+    {
+        "product_name": "Weighted Blanket (Queen)",
+        "min_price": 80.0,
+        "max_price": 130.0
+    },
+    {
+        "product_name": "Dog Crate (Large)",
+        "min_price": 100.0,
+        "max_price": 200.0
+    },
+    {
+        "product_name": "Electric Griddle",
+        "min_price": 60.0,
+        "max_price": 100.0
+    },
+    {
+        "product_name": "Camping Tent (4-person)",
+        "min_price": 120.0,
+        "max_price": 200.0
+    },
+    {
+        "product_name": "Adjustable Barbell Set",
+        "min_price": 250.0,
+        "max_price": 400.0
+    },
+    {
+        "product_name": "Smart Lock (WiFi Enabled)",
+        "min_price": 150.0,
+        "max_price": 250.0
+    },
+    {
+        "product_name": "Air Fryer Oven Combo",
+        "min_price": 130.0,
+        "max_price": 200.0
+    },
+    {
+        "product_name": "Gaming Monitor 27\"",
+        "min_price": 250.0,
+        "max_price": 400.0
+    },
+    {
+        "product_name": "Mac Mini (M1)",
+        "min_price": 500.0,
+        "max_price": 700.0
+    },
+    {
+        "product_name": "Portable AC Unit",
+        "min_price": 300.0,
+        "max_price": 500.0
+    },
+    {
+        "product_name": "Inflatable Hot Tub (4-person)",
+        "min_price": 400.0,
+        "max_price": 600.0
+    },
+    {
+        "product_name": "Kids Bunk Bed Frame",
+        "min_price": 200.0,
+        "max_price": 350.0
+    },
+    {
+        "product_name": "Adjustable Standing Desk Converter",
+        "min_price": 100.0,
+        "max_price": 200.0
+    },
+    {
+        "product_name": "Flat Weight Bench",
+        "min_price": 80.0,
+        "max_price": 120.0
+    },
+    {
+        "product_name": "Portable Car Battery Charger",
+        "min_price": 50.0,
+        "max_price": 100.0
+    },
+    {
+        "product_name": "Outdoor Storage Shed (Plastic)",
+        "min_price": 350.0,
+        "max_price": 600.0
+    },
+    {
+        "product_name": "Hair Dryer (Dyson)",
+        "min_price": 350.0,
+        "max_price": 450.0
+    },
+    {
+        "product_name": "Drone with 4K Camera",
+        "min_price": 300.0,
+        "max_price": 500.0
+    },
+    {
+        "product_name": "Washer/Dryer Pedestal",
+        "min_price": 150.0,
+        "max_price": 250.0
+    },
+    {
+        "product_name": "Espresso Machine",
+        "min_price": 250.0,
+        "max_price": 500.0
+    },
+    {
+        "product_name": "Electric Kettle with Temp Control",
+        "min_price": 60.0,
+        "max_price": 120.0
+    },
+    {
+        "product_name": "Bluetooth Record Player",
+        "min_price": 90.0,
+        "max_price": 160.0
+    },
+    {
+        "product_name": "Camping Stove (Propane)",
+        "min_price": 80.0,
+        "max_price": 120.0
+    },
+    {
+        "product_name": "UV Nail Lamp",
+        "min_price": 40.0,
+        "max_price": 80.0
+    },
+    {
+        "product_name": "Dog Grooming Kit",
+        "min_price": 50.0,
+        "max_price": 100.0
+    },
+    {
+        "product_name": "High Chair (Foldable)",
+        "min_price": 100.0,
+        "max_price": 200.0
+    },
+    {
+        "product_name": "Heated Blanket",
+        "min_price": 60.0,
+        "max_price": 120.0
+    },
+    {
+        "product_name": "VR Headset (Meta Quest 2)",
+        "min_price": 250.0,
+        "max_price": 350.0
+    },
+    {
+        "product_name": "Compact Dishwasher (Countertop)",
+        "min_price": 300.0,
+        "max_price": 500.0
+    },
+    {
+        "product_name": "Folding Treadmill",
+        "min_price": 400.0,
+        "max_price": 700.0
+    },
+    {
+        "product_name": "Bluetooth Shower Speaker",
+        "min_price": 30.0,
+        "max_price": 60.0
+    },
+    {
+        "product_name": "Ergonomic Office Chair",
+        "min_price": 200.0,
+        "max_price": 400.0
+    },
+    {
+        "product_name": "Smart Mirror for Fitness",
+        "min_price": 500.0,
+        "max_price": 800.0
+    },
+    {
+        "product_name": "Ice Maker Machine",
+        "min_price": 200.0,
+        "max_price": 350.0
+    },
+    {
+        "product_name": "Electric Chainsaw",
+        "min_price": 120.0,
+        "max_price": 200.0
+    },
+    {
+        "product_name": "Portable Bluetooth Keyboard",
+        "min_price": 40.0,
+        "max_price": 80.0
+    },
+    {
+        "product_name": "Inflatable Kayak (2-person)",
+        "min_price": 300.0,
+        "max_price": 500.0
+    },
+    {
+        "product_name": "Digital Camera for Kids",
+        "min_price": 50.0,
+        "max_price": 90.0
+    },
+    {
+        "product_name": "Wall Mounted Electric Fireplace",
+        "min_price": 250.0,
+        "max_price": 400.0
+    }
+]
