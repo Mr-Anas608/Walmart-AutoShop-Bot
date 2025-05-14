@@ -66,7 +66,7 @@ def selenium_base_test(url: str):
 
     with SB(
         uc=True,
-        user_data_dir=r'D:\Web Scraping\Client Projects\Dereal\Project1 (Walmart Bot)\new source code\my_profile',
+        user_data_dir=r'D:\Web Scraping\Client Projects\Dereal\Project1 (Walmart Bot)\source code\profiles\sb_with_proxy',
         extension_dir="proxy_auth_plugin",  # ✅ Use unzipped folder here
         chromium_arg="--ignore-certificate-errors"
         
@@ -76,6 +76,6 @@ def selenium_base_test(url: str):
 
 
 if __name__ == "__main__":
-    # url = "http://httpbin.org/ip"
-    url = "https://www.walmart.com/ip/Pre-Owned-Apple-iPhone-13-Mini-128GB-Fully-Unlocked-Blue-Refurbished-Good/1453355684"
+    url = "http://httpbin.org/ip"
+    # url = "https://www.walmart.com/ip/Pre-Owned-Apple-iPhone-13-Mini-128GB-Fully-Unlocked-Blue-Refurbished-Good/1453355684"
     selenium_base_test(url)
